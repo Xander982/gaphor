@@ -82,7 +82,7 @@ installer](https://github.com/gaphor/gaphor/releases).
 
 Note: Sometimes launching the app the first time after installation fails due
 to macOS security settings, please attempt to launch it a 2nd time if this
-happens.
+happens.  If the problem is still not resolved, please consult the [Apple support page](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac).
 
 ### PyPI
 If you have the latest stable version of Python installed and the Gaphor
